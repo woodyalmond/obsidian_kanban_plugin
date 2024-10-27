@@ -1,0 +1,1 @@
+# obsidian_kanban_plugin
